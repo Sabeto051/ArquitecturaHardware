@@ -78,5 +78,7 @@
                 ;Se pone el resultado y residuo como 0
                 ;Pero ya están seteados los registros
                 ;Entonces deje así
+                ; SantiagoMaster va a estar arreglando algo del circuito
+                ; Me avisan si se conectan
 
 
